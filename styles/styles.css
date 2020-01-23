@@ -1,4 +1,9 @@
-
+.title-contactus{
+  text-align:center;
+  font-size: 300px;
+padding: 100px;
+  text-color: red;
+}
 
 
 .col-md-3{
@@ -56,12 +61,7 @@ doodle.show-logo{
   background-color: white;
   }
 
-.title-contactus{
-  text-align:center;
-  font-size: 300px;
-padding: 100px;
-  text-color: red;
-}
+
 
 .container-fluid{ 
   background-color:transparent;
