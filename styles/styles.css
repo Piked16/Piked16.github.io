@@ -1,0 +1,123 @@
+
+
+
+.col-md-3{
+   font-size: 30px;
+  color: black;
+      padding: 50px !important;
+  }
+
+app-drawer[persistent] {
+    width: var(--app-drawer-width, 256px);
+}
+body { 
+  background-image: url("https://i.pinimg.com/originals/25/f1/eb/25f1ebec7b31adafebcbf91708d3e90c.jpg");
+  }
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+doodle.show-logo{
+  padding: 10px;
+}
+
+.logo{
+  vertical-align: right;
+  
+}
+
+
+.fab{
+    font-size: 28px;
+  }
+  
+  .mybox{
+    width: 100px;
+    height: 100px;
+    background:#000;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25em;
+    color: #fff;
+    line-height: 200px;
+  }
+
+.video{
+  padding: 300px;
+  text-align: center;
+} 
+
+
+.myform {
+    padding: 300px !important;
+     font-size: 20px;
+  background-color: white;
+  }
+
+.title-contactus{
+  text-align:left-center;
+  font-size: 300px;
+padding: 100px;
+  text-color: red;
+}
+
+.container-fluid{ 
+  background-color:transparent;
+  color: black;
+  padding-top: 15px;
+  height: 0px;
+  text-align: center;
+}
+
+.text-container{
+  color: black;
+  padding: 0px;
+  text-align: center;
+}
+  
+
+.fas {
+  font-size: 100px;
+  color: black;
+}
+.carousel-slide h5 {
+  color: #000000;
+  text-transform: uppercase;
+
+}
+
+.carousel-caption {
+
+  padding: 40px;
+  background-color: #bbb;
+  opacity: .8;
+}
+
+@media screen and (max-width: 700px) {
+  .carousel {
+   display: none;
+    
+  
+  }
+.box1{
+  border: solid #0000;
+  width: 300px;
+  position: fixed;}
+  
+
+  .box2{
+       border: solid;
+  position: relative;
+  top: 1500px;
+    width: 200px;
+    height: 150px;
+    
+  }
+
+  .table-color {
+    background-color: purple;
+  }
+ 
+  
